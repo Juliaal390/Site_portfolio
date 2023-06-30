@@ -1,0 +1,164 @@
+body{margin: 0px;
+    font-family: 'Ovo', serif;}
+
+.inicio{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.navegacao, a{
+    text-decoration: none;
+    margin-top: 30px;
+    text-align: center;
+    color: #364f3d;
+    font-size: 24px;
+    padding: 5px;
+}
+.txt{
+    text-align: center;
+    font-size: 15px;
+    color: #364f3d;
+}
+.txt2{
+ 
+    color: #364f3d;
+    font-size: 60px;
+    
+   
+}
+
+
+.hr1{ 
+    background-color:  #d9d9dd;
+    border: none;
+    width: 244px;
+    height: 3px;
+}
+
+.txt3{
+    
+    font-size: 25px;
+    color: #364f3d;
+ 
+
+    
+}
+#bloco1, #bloco2{
+    padding: 50px;
+    float: left;
+    text-align: center;
+}
+
+.txt4{
+    text-align: center;
+    font-size: 50px;
+    color: #dfc15e;
+}
+.txt5{
+    text-align: center;
+    font-size: 25px;
+    color: #364f3d;
+}
+.txt6
+{
+    text-align: center;
+    margin-top:80px;
+    margin-bottom: 40px;
+}
+
+.txt7{
+    text-align: center;
+}
+.botao:hover{
+    color: white;
+    background-color: #dfc15e;
+}
+
+.botao{
+   
+    width: 135px;
+    height: 45px;
+    font-size: 14px;
+    border: 2px solid #dfc15e;
+    color: #dfc15e;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 500px;
+    line-height: 45px;
+
+}
+.infos{
+    background-color: #3a3a3a;
+    text-align: center;
+    
+   
+}
+.txt8{
+    padding: 50px;
+    text-align: center;
+    color: #dfc15e;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.txt9{
+    text-align: center;
+    color: #bababa;
+    font-size: 20px;
+}
+.centralizar{
+    text-align: center;
+    color: #dfc15e;
+    font-size: 20px;
+    letter-spacing: 9px;
+    margin-bottom: 40px;
+}
+.hr2{ 
+    background-color:  #d9d9dd;
+    border: none;
+    width: 500px;
+    height: 3px;
+}
+.hr3{
+    background-color:  #d9d9dd;
+    border: none;
+    width: 200px;
+    height: 3px;
+}
+.txt10{
+    color: #dfc15e;
+    font-size: 50px;
+    font-weight: bold;
+}
+.txt11{
+    color: #7A7A7A;
+    font-size: 16px;
+    margin-top: 40px;
+}
+.txt12
+{
+    color: #7A7A7A;
+    font-size: 16px;
+    margin-top: 20px;
+}
+#bloco3, #bloco4{
+    text-align: center;
+}
+
+iframe{
+    margin-top: 50px;
+}
+.icones{
+    font-size: 50px;
+}
+.icones1{
+    font-size: 50px;
+    margin: 0px;
+}
+footer{
+    margin: 50px;
+    color: #7A7A7A;
+    font-size: 15px;
+    text-align: center;
+}
