@@ -1,2 +1,2 @@
 # Site_portfolio
- Exemplo de site portfólio para disciplina
+ Exemplo de site portfólio. Projeto para disciplina de desenvolvimento web
